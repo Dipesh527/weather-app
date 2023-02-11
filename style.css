@@ -1,0 +1,11 @@
+body{
+  font-size: 0.8rem;
+  background-color: #eeedec;
+  letter-spacing: normal;
+}
+.container{
+  max-width: 400px;
+}
+.weather{
+  font-size: 14px;
+}
